@@ -76,9 +76,14 @@ La industria de los videojuegos es dinámica y competitiva. Ice, como tienda onl
 # Estructura del Repositorio
 .
 ├── notebook/              # Cuadernos Jupyter con el análisis
+
 │   └── eda_ice_games.ipynb
+
 ├── datasets/              # Archivos de datos originales y/o procesados
+
 │   └── games.csv
+
 ├── README.md              # Este archivo
+
 └── LICENSE                # Licencia
 
